@@ -1,4 +1,4 @@
-module code.cynthia.re/go/oauth/qsnu
+module github.com/bitcynth/go-qsnu-sso
 
 go 1.12
 
