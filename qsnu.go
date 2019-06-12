@@ -14,9 +14,9 @@ import (
 )
 
 var (
-	AuthURL    = "http://sso.qs.nu:5000/oauth2/authorize"
-	TokenURL   = "http://sso.qs.nu:5000/oauth2/token"
-	ProfileURL = "http://sso.qs.nu:5000/api/v1/user"
+	AuthURL    = "https://sso.qs.nu/oauth2/authorize"
+	TokenURL   = "https://sso.qs.nu/oauth2/token"
+	ProfileURL = "https://sso.qs.nu/api/v1/user"
 )
 
 type Provider struct {
